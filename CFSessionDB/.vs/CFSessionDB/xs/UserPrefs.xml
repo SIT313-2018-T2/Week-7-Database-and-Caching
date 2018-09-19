@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{61E1333D-98DC-4CBE-BFBD-17FD1B9A6F3B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CFSessionDB/CFSessionDB/ViewModel/SessionsListViewModel.cs">
+    <Files>
+      <File FileName="CFSessionDB/CFSessionDB/Data/Database.cs" Line="10" Column="54" />
+      <File FileName="CFSessionDB/CFSessionDB/Model/Session.cs" Line="1" Column="1" />
+      <File FileName="CFSessionDB/CFSessionDB/View/SessionListPage.xaml" Line="22" Column="15" />
+      <File FileName="CFSessionDB/CFSessionDB/ViewModel/SessionsListViewModel.cs" Line="27" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CFSessionDB.Android PreferredExecutionTarget="Android.Nexus_5X_API_26" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+</Properties>

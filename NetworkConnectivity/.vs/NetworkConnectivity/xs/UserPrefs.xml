@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{20E94E44-F739-4D53-989E-EEABE58066F1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetworkConnectivity/MainPage.xaml">
+    <Files>
+      <File FileName="NetworkConnectivity/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="NetworkConnectivity/View/TestConnectivityPage.xaml" Line="16" Column="1" />
+      <File FileName="NetworkConnectivity/View/TestConnectivityPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="NetworkConnectivity/ViewModel/ConnectivityViewModel.cs" Line="3" Column="29" />
+      <File FileName="NetworkConnectivity/App.xaml.cs" Line="34" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.NetworkConnectivity.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.04EC2910-42F0-4B63-B720-09C1215F1287" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NetworkConnectivity.Android PreferredExecutionTarget="Android.Nexus_5X_API_26" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+</Properties>

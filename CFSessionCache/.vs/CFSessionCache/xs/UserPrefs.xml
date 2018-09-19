@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{571EB5C5-1417-4A42-81AD-5C71A568F2BA}|Default">
+  <MonoDevelop.Ide.ItemProperties.CFSessionCache.Android PreferredExecutionTarget="Android.Nexus_4_API_26" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cfsessioncache/cfsessioncache/Data/SessionManager.cs">
+    <Files>
+      <File FileName="cfsessioncache/cfsessioncache/App.xaml" Line="8" Column="15" />
+      <File FileName="cfsessioncache/cfsessioncache/MainPage.xaml" Line="15" Column="1" />
+      <File FileName="cfsessioncache/cfsessioncache/View/SessionListPage.xaml" Line="21" Column="15" />
+      <File FileName="cfsessioncache/cfsessioncache/ViewModel/SessionListViewModel.cs" Line="1" Column="1" />
+      <File FileName="cfsessioncache/cfsessioncache/Model/Session.cs" Line="1" Column="1" />
+      <File FileName="cfsessioncache/cfsessioncache/Data/AppCache.cs" Line="1" Column="1" />
+      <File FileName="cfsessioncache/cfsessioncache/Data/SessionManager.cs" Line="20" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CFSessionCache" expanded="True">
+            <Node name="CFSessionCache" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,8 @@
+E:\IT\SIT313\CFSessionDB\CFSessionDB\CFSessionDB.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\IT\SIT313\CFSessionDB\CFSessionDB\CFSessionDB.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+E:\IT\SIT313\CFSessionDB\CFSessionDB\CFSessionDB.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+E:\IT\SIT313\CFSessionDB\CFSessionDB\CFSessionDB.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+E:\IT\SIT313\CFSessionDB\CFSessionDB\CFSessionDB.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\IT\SIT313\CFSessionDB\CFSessionDB\CFSessionDB.iOS\obj\iPhoneSimulator\Debug\optimized\
+E:\IT\SIT313\CFSessionDB\CFSessionDB\CFSessionDB.iOS\obj\iPhoneSimulator\Debug\CFSessionDB.iOS.csprojAssemblyReference.cache
+E:\IT\SIT313\CFSessionDB\CFSessionDB\CFSessionDB.iOS\obj\iPhoneSimulator\Debug\CFSessionDB.iOS.csproj.CoreCompileInputs.cache

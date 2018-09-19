@@ -1,0 +1,26 @@
+E:/IT/SIT313/CFSessionDB/CFSessionDB/CFSessionDB/bin/Debug/netstandard2.0/CFSessionDB.deps.json
+E:/IT/SIT313/CFSessionDB/CFSessionDB/CFSessionDB/bin/Debug/netstandard2.0/CFSessionDB.dll
+E:/IT/SIT313/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.csprojAssemblyReference.cache
+E:/IT/SIT313/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/App.xaml.g.cs
+E:/IT/SIT313/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+E:/IT/SIT313/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.csproj.CoreCompileInputs.cache
+E:/IT/SIT313/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.AssemblyInfoInputs.cache
+E:/IT/SIT313/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.AssemblyInfo.cs
+E:/IT/SIT313/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/XamlC.stamp
+E:/IT/SIT313/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/View/SessionListPage.xaml.g.cs
+E:/IT/SIT313/CFSessionDB/CFSessionDB/CFSessionDB/bin/Debug/netstandard2.0/CFSessionDB.pdb
+E:/IT/SIT313/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.dll
+E:/IT/SIT313/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.pdb
+/Users/darkeung/Downloads/week7/untitled folder/CFSessionDB/CFSessionDB/CFSessionDB/bin/Debug/netstandard2.0/CFSessionDB.deps.json
+/Users/darkeung/Downloads/week7/untitled folder/CFSessionDB/CFSessionDB/CFSessionDB/bin/Debug/netstandard2.0/CFSessionDB.dll
+/Users/darkeung/Downloads/week7/untitled folder/CFSessionDB/CFSessionDB/CFSessionDB/bin/Debug/netstandard2.0/CFSessionDB.pdb
+/Users/darkeung/Downloads/week7/untitled folder/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.csprojAssemblyReference.cache
+/Users/darkeung/Downloads/week7/untitled folder/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/darkeung/Downloads/week7/untitled folder/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/darkeung/Downloads/week7/untitled folder/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/View/SessionListPage.xaml.g.cs
+/Users/darkeung/Downloads/week7/untitled folder/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.csproj.CoreCompileInputs.cache
+/Users/darkeung/Downloads/week7/untitled folder/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.AssemblyInfoInputs.cache
+/Users/darkeung/Downloads/week7/untitled folder/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.AssemblyInfo.cs
+/Users/darkeung/Downloads/week7/untitled folder/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/darkeung/Downloads/week7/untitled folder/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.dll
+/Users/darkeung/Downloads/week7/untitled folder/CFSessionDB/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.pdb
